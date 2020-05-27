@@ -4,7 +4,7 @@ export default {
   namespace: 'example',
   // 是初始值，状态数据
   state: {
-    name:"state的名字"
+    name:"state的名字多吃点"
   },
   // 订阅数据源
   subscriptions: {
